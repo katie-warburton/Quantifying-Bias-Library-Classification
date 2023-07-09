@@ -1,0 +1,51 @@
+History 
+
+Library	Label			Category Name							Tag
+--------	-------------	----------------------------------------------		----------
+lcc        	DA         	Great Britain								Western
+lcc        	DAW        	History of Central Europe						Western
+lcc        	DB         	Austria. Liechtenstein. Hungary. Czechoslovakia			Western
+lcc        	DC         	France. Andorra. Monaco							Western
+lcc        	DD         	Germany									Western
+lcc        	DE         	Greco-Roman World								Western	
+lcc        	DF         	Greece									Western
+lcc        	DG         	Italy - Malta								Western
+lcc        	DH         	Low Countries. Benelux Countries					Western
+lcc        	DJ         	Netherlands (Holland)							Western
+lcc        	DL         	Northern Europe. Scandinavia						Western
+lcc        	DP         	Spain - Portugal								Western
+lcc        	DQ         	Switzerland									Western
+lcc        	DU80-398   	Australia									Western
+lcc        	DU400-430  	New Zealand									Western
+lcc        	E          	History of the Americas							Western
+lcc        	F          	History of the Americas (local)					Western
+lcc        	DJK        	Eastern Europe (General)						Non-Western
+lcc        	DK         	Russia. Soviet Union. Former Soviet Republics. Poland		Non-Western
+lcc        	DR         	Balkan Peninsula								Non-Western
+lcc        	DS         	Asia										Non-Western
+lcc        	DT         	Africa									Non-Western
+lcc        	DU490      	Melanesia (General)							Non-Western
+lcc        	DU500      	Micronesia (General)							Non-Western
+lcc        	DU510      	Polynesia (General)							Non-Western
+lcc        	DU520-950  	Smaller island groups							Non-Western
+lcc        	DX         	Romanies									Non-Western
+
+ddc        	941        	British Isles								Western
+ddc        	942        	England & Wales								Western
+ddc        	943        	Central Europe; Germany							Western
+ddc        	944        	France & Monaco								Western
+ddc        	945        	Italian Peninsula & adjacent islands				Western
+ddc        	946        	Iberian Peninsula & adjacent islands				Western
+ddc        	948        	Scandinavia									Western
+ddc        	97         	History of North America						Western
+ddc        	98         	History of South America						Western
+ddc        	993        	New Zealand									Western
+ddc       	994        	Australia									Western
+ddc        	947        	Eastern Europe; Russia							Non-Western
+ddc        	95         	History of Asia								Non-Western
+ddc        	96         	History of Africa								Non-Western
+ddc        	991        	[Formerly Malaysia + Indonesia]					Non-Western
+ddc        	992        	[Formerly Malaysia + Indonesia]					Non-Western
+ddc        	995        	Melanesia; New Guinea							Non-Western
+ddc        	996        	Other parts of Pacific; Polynesia					Non-Western
+

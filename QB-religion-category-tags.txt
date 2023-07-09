@@ -1,0 +1,41 @@
+Religion 
+
+Library	Label			Category Name							Tag
+--------	-------------	----------------------------------------------		----------
+lcc		BL689-980 		European. Occidental    					Western
+lcc		BL2500-2592		American								Western
+lcc        	BM           	Judaism     							Western
+lcc        	BR           	Christianity            					Western                                   
+lcc        	BS           	The Bible 								Western
+lcc        	BT           	Doctrinal Theology  						Western
+lcc        	BV           	Practical Theology						Western
+lcc        	BX           	Christian Denominations						Western
+lcc        	BL685        	Ural-Altaic                                      	Non-Western
+lcc        	BL1000-2370  	Asian. Oriental                                 	Non-Western
+lcc        	BL2390-2490  	African                                          	Non-Western
+lcc        	BL2600-2630  	Pacific Ocean islands. Oceania                   	Non-Western
+lcc        	BL2670       	Arctic regions                                  	Non-Western
+lcc        	BP           	Islam. Bahaism. Theosophy, etc.                 	Non-Western
+lcc        	BQ           	Buddhism                                        	Non-Western
+
+ddc        	22           	The Bible    							Western
+ddc        	23           	Christianity & Christian theology  				Western
+ddc        	25           	Christian pastoral practice & religious orders 		Western
+ddc        	26           	Christian organization, social work & worship    	Western
+ddc        	27           	History of Christianity   					Western
+ddc        	28           	Christian denominations      					Western
+ddc        	296          	Judaism  								Western
+ddc        	299.936      	Scientology       						Western
+ddc        	294          	Religions of Indic origin                      		Non-Western
+ddc        	295          	Zoroastrianism                                   	Non-Western
+ddc        	297          	Islam, Babism & Bahai Faith                     	Non-Western
+ddc        	299.2        	Sumer, Assyria, Mesopotamia                      	Non-Western
+ddc        	299.3        	Of North African Origin                          	Non-Western
+ddc        	299.4        	Of Eurasian Origin                               	Non-Western
+ddc        	299.5        	Of Asian Origin                                  	Non-Western
+ddc        	299.6        	Of African Origin                               	Non-Western
+ddc        	299.7        	Of North American Origin                        	Non-Western
+ddc        	299.8        	Of South American Origin                         	Non-Western
+ddc        	299.92       	Of Pacific or Other Ethnic Origin
+
+
