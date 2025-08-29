@@ -1,0 +1,5 @@
+ marcData.pk is too bif for GitHub. 
+ Please download from Library Bias Analyses/Data/OhioLINK Data stored at https://osf.io/wd9c6. 
+ Put in a folder with the same name (OhioLINK Data). 
+
+ LCC CSV names have been shortened as necessary, again see OSF for full names. 
