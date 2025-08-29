@@ -1,0 +1,1111 @@
+Class	Caption	Summary
+000	"Computer science, information & general works"	1
+100	Philosophy & psychology	1
+200	Religion	1
+300	Social sciences	1
+400	Language	1
+500	Science	1
+600	Technology	1
+700	Arts & recreation	1
+800	Literature	1
+900	History & geography	1
+000	"Computer science, knowledge & systems"	2
+010	Bibliographies	2
+020	Library & information sciences	2
+030	Encyclopedias & books of facts	2
+040	[Unassigned]	2
+050	"Magazines, journals & serials"	2
+060	"Associations, organizations & museums"	2
+070	"News media, journalism & publishing"	2
+080	Quotations	2
+090	Manuscripts & rare books	2
+100	Philosophy	2
+110	Metaphysics	2
+120	Epistemology	2
+130	Parapsychology & occultism	2
+140	Philosophical schools of thought	2
+150	Psychology	2
+160	Logic	2
+170	Ethics	2
+180	"Ancient, medieval & eastern philosophy"	2
+190	Modern western philosophy	2
+200	Religion	2
+210	Philosophy & theory of religion	2
+220	The Bible	2
+230	Christianity & Christian theology	2
+240	Christian practice & observance	2
+250	Christian pastoral practice & religious orders	2
+260	"Christian organization, social work & worship"	2
+270	History of Christianity	2
+280	Christian denominations	2
+290	Other religions	2
+300	"Social sciences, sociology & anthropology"	2
+310	Statistics	2
+320	Political science	2
+330	Economics	2
+340	Law	2
+350	Public administration & military science	2
+360	Social problems & social services	2
+370	Education	2
+380	"Commerce, communications & transportation"	2
+390	"Customs, etiquette & folklore"	2
+400	Language	2
+410	Linguistics	2
+420	English & Old English languages	2
+430	German & related languages	2
+440	French & related languages	2
+450	"Italian, Romanian & related languages"	2
+460	Spanish & Portuguese languages	2
+470	Latin & Italic languages	2
+480	Classical & modern Greek languages	2
+490	Other languages	2
+500	Science	2
+510	Mathematics	2
+520	Astronomy	2
+530	Physics	2
+540	Chemistry	2
+550	Earth sciences & geology	2
+560	Fossils & prehistoric life	2
+570	Life sciences; biology	2
+580	Plants (Botany)	2
+590	Animals (Zoology)	2
+600	Technology	2
+610	Medicine & health	2
+620	Engineering	2
+630	Agriculture	2
+640	Home & family management	2
+650	Management & public relations	2
+660	Chemical engineering	2
+670	Manufacturing	2
+680	Manufacture for specific uses	2
+690	Building & construction	2
+700	Arts	2
+710	Landscaping & area planning	2
+720	Architecture	2
+730	"Sculpture, ceramics & metalwork"	2
+740	Drawing & decorative arts	2
+750	Painting	2
+760	Graphic arts	2
+770	Photography & computer art	2
+780	Music	2
+790	"Sports, games & entertainment"	2
+800	"Literature, rhetoric & criticism"	2
+810	American literature in English	2
+820	English & Old English literatures	2
+830	German & related literatures	2
+840	French & related literatures	2
+850	"Italian, Romanian & related literatures"	2
+860	Spanish & Portuguese literatures	2
+870	Latin & Italic literatures	2
+880	Classical & modern Greek literatures	2
+890	Other literatures	2
+900	History	2
+910	Geography & travel	2
+920	Biography & genealogy	2
+930	History of ancient world (to ca. 499)	2
+940	History of Europe	2
+950	History of Asia	2
+960	History of Africa	2
+970	History of North America	2
+980	History of South America	2
+990	History of other areas	2
+000	"Computer science, information & general works"	3
+001	Knowledge	3
+002	The book	3
+003	Systems	3
+004	Data processing & computer science	3
+005	"Computer programming, programs & data"	3
+006	Special computer methods	3
+007	[Unassigned]	3
+008	[Unassigned]	3
+009	[Unassigned]	3
+010	Bibliography	3
+011	Bibliographies	3
+012	Bibliographies of individuals	3
+013	[Unassigned]	3
+014	Bibliographies of anonymous & pseudonymous works	3
+015	Bibliographies of works from specific places	3
+016	Bibliographies of works on specific subjects	3
+017	General subject catalogs	3
+018	"Catalogs arranged by author, date, etc."	3
+019	Dictionary catalogs	3
+020	Library & information sciences	3
+021	Library relationships	3
+022	Administration of physical plant	3
+023	Personnel management	3
+024	[Unassigned]	3
+025	Library operations	3
+026	Libraries for specific subjects	3
+027	General libraries	3
+028	Reading & use of other information media	3
+029	[Unassigned]	3
+030	General encyclopedic works	3
+031	Encyclopedias in American English	3
+032	Encyclopedias in English	3
+033	Encyclopedias in other Germanic languages	3
+034	"Encyclopedias in French, Occitan & Catalan"	3
+035	"Encyclopedias in Italian, Romanian & related languages"	3
+036	Encyclopedias in Spanish & Portuguese	3
+037	Encyclopedias in Slavic languages	3
+038	Encyclopedias in Scandinavian languages	3
+039	Encyclopedias in other languages	3
+040	[Unassigned]	3
+041	[Unassigned]	3
+042	[Unassigned]	3
+043	[Unassigned]	3
+044	[Unassigned]	3
+045	[Unassigned]	3
+046	[Unassigned]	3
+047	[Unassigned]	3
+048	[Unassigned]	3
+049	[Unassigned]	3
+050	General serial publications	3
+051	Serials in American English	3
+052	Serials in English	3
+053	Serials in other Germanic languages	3
+054	"Serials in French, Occitan & Catalan"	3
+055	"Serials in Italian, Romanian & related languages"	3
+056	Serials in Spanish & Portuguese	3
+057	Serials in Slavic languages	3
+058	Serials in Scandinavian languages	3
+059	Serials in other languages	3
+060	General organizations & museum science	3
+061	Organizations in North America	3
+062	Organizations in British Isles; in England	3
+063	Organizations in central Europe; in Germany	3
+064	Organizations in France & Monaco	3
+065	Organizations in Italy & adjacent islands	3
+066	Organizations in Iberian Peninsula & adjacent islands	3
+067	Organizations in eastern Europe; in Russia	3
+068	Organizations in other geographic areas	3
+069	Museum science	3
+070	"News media, journalism & publishing"	3
+071	Newspapers in North America	3
+072	Newspapers in British Isles; in England	3
+073	Newspapers in central Europe; in Germany	3
+074	Newspapers in France & Monaco	3
+075	Newspapers in Italy & adjacent islands	3
+076	Newspapers in Iberian Peninsula & adjacent islands	3
+077	Newspapers in eastern Europe; in Russia	3
+078	Newspapers in Scandinavia	3
+079	Newspapers in other geographic areas	3
+080	General collections	3
+081	Collections in American English	3
+082	Collections in English	3
+083	Collections in other Germanic languages	3
+084	"Collections in French, Occitan & Catalan"	3
+085	"Collections in Italian, Romanian & related languages"	3
+086	Collections in Spanish & Portuguese	3
+087	Collections in Slavic languages	3
+088	Collections in Scandinavian languages	3
+089	Collections in other languages	3
+090	Manuscripts & rare books	3
+091	Manuscripts	3
+092	Block books	3
+093	Incunabula	3
+094	Printed books	3
+095	Books notable for bindings	3
+096	Books notable for illustrations	3
+097	Books notable for ownership or origin	3
+098	"Prohibited works, forgeries & hoaxes"	3
+099	Books notable for format	3
+100	Philosophy & psychology	3
+101	Theory of philosophy	3
+102	Miscellany	3
+103	Dictionaries & encyclopedias	3
+104	[Unassigned]	3
+105	Serial publications	3
+106	Organizations & management	3
+107	"Education, research & related topics"	3
+108	Kinds of persons treatment	3
+109	Historical & collected persons treatment	3
+110	Metaphysics	3
+111	Ontology	3
+112	[Unassigned]	3
+113	Cosmology	3
+114	Space	3
+115	Time	3
+116	Change	3
+117	Structure	3
+118	Force & energy	3
+119	Number & quantity	3
+120	"Epistemology, causation & humankind"	3
+121	Epistemology	3
+122	Causation	3
+123	Determinism & indeterminism	3
+124	Teleology	3
+125	[Unassigned]	3
+126	The self	3
+127	The unconscious & the subconscious	3
+128	Humankind	3
+129	Origin & destiny of individual souls	3
+130	Parapsychology & occultism	3
+131	Parapsychological & occult methods	3
+132	[Unassigned]	3
+133	Specific topics in parapsychology & occultism	3
+134	[Unassigned]	3
+135	Dreams & mysteries	3
+136	[Unassigned]	3
+137	Divinatory graphology	3
+138	Physiognomy	3
+139	Phrenology	3
+140	Specific philosophical schools	3
+141	Idealism & related systems	3
+142	Critical philosophy	3
+143	Bergsonism & intuitionism	3
+144	Humanism & related systems	3
+145	Sensationalism	3
+146	Naturalism & related systems	3
+147	Pantheism & related systems	3
+148	"Eclecticism, liberalism & traditionalism"	3
+149	Other philosophical systems	3
+150	Psychology	3
+151	[Unassigned]	3
+152	"Perception, movement, emotions & drives"	3
+153	Mental processes & intelligence	3
+154	Subconscious & altered states	3
+155	Differential & developmental psychology	3
+156	Comparative psychology	3
+157	[Unassigned]	3
+158	Applied psychology	3
+159	[Unassigned]	3
+160	Logic	3
+161	Induction	3
+162	Deduction	3
+163	[Unassigned]	3
+164	[Unassigned]	3
+165	Fallacies & sources of error	3
+166	Syllogisms	3
+167	Hypotheses	3
+168	Argument & persuasion	3
+169	Analogy	3
+170	Ethics	3
+171	Ethical systems	3
+172	Political ethics	3
+173	Ethics of family relationships	3
+174	Occupational ethics	3
+175	Ethics of recreation & leisure	3
+176	Ethics of sex & reproduction	3
+177	Ethics of social relations	3
+178	Ethics of consumption	3
+179	Other ethical norms	3
+180	"Ancient, medieval & eastern philosophy"	3
+181	Eastern philosophy	3
+182	Pre-Socratic Greek philosophies	3
+183	Socratic & related philosophies	3
+184	Platonic philosophy	3
+185	Aristotelian philosophy	3
+186	Skeptic & Neoplatonic philosophies	3
+187	Epicurean philosophy	3
+188	Stoic philosophy	3
+189	Medieval western philosophy	3
+190	Modern western philosophy	3
+191	Philosophy of United States & Canada	3
+192	Philosophy of British Isles	3
+193	Philosophy of Germany & Austria	3
+194	Philosophy of France	3
+195	Philosophy of Italy	3
+196	Philosophy of Spain & Portugal	3
+197	Philosophy of former Soviet Union	3
+198	Philosophy of Scandinavia	3
+199	Philosophy in other geographic areas	3
+200	Religion	3
+201	Religious mythology & social theology	3
+202	Doctrines	3
+203	Public worship & other practices	3
+204	"Religious experience, life & practice"	3
+205	Religious ethics	3
+206	Leaders & organization	3
+207	Missions & religious education	3
+208	Sources	3
+209	Sects & reform movements	3
+210	Philosophy & theory of religion	3
+211	Concepts of God	3
+212	"Existence, knowability & attributes of God"	3
+213	Creation	3
+214	Theodicy	3
+215	Science & religion	3
+216	[Unassigned]	3
+217	[Unassigned]	3
+218	Humankind	3
+219	[Unassigned]	3
+220	Bible	3
+221	Old Testament (Tanakh)	3
+222	Historical books of Old Testament	3
+223	Poetic books of Old Testament	3
+224	Prophetic books of Old Testament	3
+225	New Testament	3
+226	Gospels & Acts	3
+227	Epistles	3
+228	Revelation (Apocalypse)	3
+229	Apocrypha & pseudepigrapha	3
+230	Christianity & Christian theology	3
+231	God	3
+232	Jesus Christ & his family	3
+233	Humankind	3
+234	Salvation & grace	3
+235	Spiritual beings	3
+236	Eschatology	3
+237	[Unassigned]	3
+238	Creeds & catechisms	3
+239	Apologetics & polemics	3
+240	Christian moral & devotional theology	3
+241	Christian ethics	3
+242	Devotional literature	3
+243	Evangelistic writings for individuals	3
+244	[Unassigned]	3
+245	[Unassigned]	3
+246	Use of art in Christianity	3
+247	Church furnishings & articles	3
+248	"Christian experience, practice & life"	3
+249	Christian observances in family life	3
+250	Christian orders & local church	3
+251	Preaching	3
+252	Texts of sermons	3
+253	Pastoral office & work	3
+254	Parish administration	3
+255	Religious congregations & orders	3
+256	[Unassigned]	3
+257	[Unassigned]	3
+258	[Unassigned]	3
+259	Pastoral care of families & kinds of persons	3
+260	Social & ecclesiastical theology	3
+261	Social theology	3
+262	Ecclesiology	3
+263	"Days, times & places of observance"	3
+264	Public worship	3
+265	"Sacraments, other rites & acts"	3
+266	Missions	3
+267	Associations for religious work	3
+268	Religious education	3
+269	Spiritual renewal	3
+270	History of Christianity & Christian church	3
+271	Religious orders in church history	3
+272	Persecutions in church history	3
+273	Doctrinal controversies & heresies	3
+274	History of Christianity in Europe	3
+275	History of Christianity in Asia	3
+276	History of Christianity in Africa	3
+277	History of Christianity in North America	3
+278	History of Christianity in South America	3
+279	History of Christianity in other areas	3
+280	Christian denominations & sects	3
+281	Early church & Eastern churches	3
+282	Roman Catholic Church	3
+283	Anglican churches	3
+284	Protestants of Continental origin	3
+285	"Presbyterian, Reformed & Congregational"	3
+286	"Baptist, Disciples of Christ & Adventist"	3
+287	Methodist & related churches	3
+288	[Unassigned]	3
+289	Other denominations & sects	3
+290	Other religions	3
+291	[Unassigned]	3
+292	Greek & Roman religion	3
+293	Germanic religion	3
+294	Religions of Indic origin	3
+295	Zoroastrianism	3
+296	Judaism	3
+297	"Islam, Babism & Bahai Faith"	3
+298	(Optional number)	3
+299	Religions not provided for elsewhere	3
+300	Social sciences	3
+301	Sociology & anthropology	3
+302	Social interaction	3
+303	Social processes	3
+304	Factors affecting social behavior	3
+305	Social groups	3
+306	Culture & institutions	3
+307	Communities	3
+308	[Unassigned]	3
+309	[Unassigned]	3
+310	Collections of general statistics	3
+311	[Unassigned]	3
+312	[Unassigned]	3
+313	[Unassigned]	3
+314	General statistics of Europe	3
+315	General statistics of Asia	3
+316	General statistics of Africa	3
+317	General statistics of North America	3
+318	General statistics of South America	3
+319	General statistics of other areas	3
+320	Political science	3
+321	Systems of governments & states	3
+322	Relation of state to organized groups	3
+323	Civil & political rights	3
+324	The political process	3
+325	International migration & colonization	3
+326	Slavery & emancipation	3
+327	International relations	3
+328	The legislative process	3
+329	[Unassigned]	3
+330	Economics	3
+331	Labor economics	3
+332	Financial economics	3
+333	Economics of land & energy	3
+334	Cooperatives	3
+335	Socialism & related systems	3
+336	Public finance	3
+337	International economics	3
+338	Production	3
+339	Macroeconomics & related topics	3
+340	Law	3
+341	Law of nations	3
+342	Constitutional & administrative law	3
+343	"Military, tax, trade & industrial law"	3
+344	"Labor, social, education & cultural law"	3
+345	Criminal law	3
+346	Private law	3
+347	Civil procedure & courts	3
+348	"Laws, regulations & cases"	3
+349	Law of specific jurisdictions & areas	3
+350	Public administration & military science	3
+351	Public administration	3
+352	General considerations of public administration	3
+353	Specific fields of public administration	3
+354	Administration of economy & environment	3
+355	Military science	3
+356	Infantry forces & warfare	3
+357	Mounted forces & warfare	3
+358	Air & other specialized forces	3
+359	Sea forces & warfare	3
+360	Social problems & services; associations	3
+361	Social problems & social welfare in general	3
+362	Social welfare problems & services	3
+363	Other social problems & services	3
+364	Criminology	3
+365	Penal & related institutions	3
+366	Associations	3
+367	General clubs	3
+368	Insurance	3
+369	Miscellaneous kinds of associations	3
+370	Education	3
+371	Schools & their activities; special education	3
+372	Elementary education	3
+373	Secondary education	3
+374	Adult education	3
+375	Curricula	3
+376	[Unassigned]	3
+377	[Unassigned]	3
+378	Higher education	3
+379	Public policy issues in education	3
+380	"Commerce, communications & transportation"	3
+381	Commerce	3
+382	International commerce	3
+383	Postal communication	3
+384	Communications; telecommunication	3
+385	Railroad transportation	3
+386	Inland waterway & ferry transportation	3
+387	"Water, air & space transportation"	3
+388	Transportation; ground transportation	3
+389	Metrology & standardization	3
+390	"Customs, etiquette & folklore"	3
+391	Costume & personal appearance	3
+392	Customs of life cycle & domestic life	3
+393	Death customs	3
+394	General customs	3
+395	Etiquette (Manners)	3
+396	[Unassigned]	3
+397	[Unassigned]	3
+398	Folklore	3
+399	Customs of war & diplomacy	3
+400	Language	3
+401	Philosophy & theory	3
+402	Miscellany	3
+403	Dictionaries & encyclopedias	3
+404	Special topics	3
+405	Serial publications	3
+406	Organizations & management	3
+407	"Education, research & related topics"	3
+408	Kinds of persons treatment	3
+409	Geographic & persons treatment	3
+410	Linguistics	3
+411	Writing systems	3
+412	Etymology	3
+413	Dictionaries	3
+414	Phonology & phonetics	3
+415	Grammar	3
+416	[Unassigned]	3
+417	Dialectology & historical linguistics	3
+418	Standard usage & applied linguistics	3
+419	Sign languages	3
+420	English & Old English	3
+421	English writing system & phonology	3
+422	English etymology	3
+423	English dictionaries	3
+424	[Unassigned]	3
+425	English grammar	3
+426	[Unassigned]	3
+427	English language variations	3
+428	Standard English usage	3
+429	Old English (Anglo-Saxon)	3
+430	Germanic languages; German	3
+431	German writing systems & phonology	3
+432	German etymology	3
+433	German dictionaries	3
+434	[Unassigned]	3
+435	German grammar	3
+436	[Unassigned]	3
+437	German language variations	3
+438	Standard German usage	3
+439	Other Germanic languages	3
+440	Romance languages; French	3
+441	French writing systems & phonology	3
+442	French etymology	3
+443	French dictionaries	3
+444	[Unassigned]	3
+445	French grammar	3
+446	[Unassigned]	3
+447	French language variations	3
+448	Standard French usage	3
+449	Occitan & Catalan	3
+450	"Italian, Romanian & related languages"	3
+451	Italian writing systems & phonology	3
+452	Italian etymology	3
+453	Italian dictionaries	3
+454	[Unassigned]	3
+455	Italian grammar	3
+456	[Unassigned]	3
+457	Italian language variations	3
+458	Standard Italian usage	3
+459	Romanian & related languages	3
+460	Spanish & Portuguese languages	3
+461	Spanish writing systems & phonology	3
+462	Spanish etymology	3
+463	Spanish dictionaries	3
+464	[Unassigned]	3
+465	Spanish grammar	3
+466	[Unassigned]	3
+467	Spanish language variations	3
+468	Standard Spanish usage	3
+469	Portuguese	3
+470	Italic languages; Latin	3
+471	Classical Latin writing & phonology	3
+472	Classical Latin etymology	3
+473	Classical Latin dictionaries	3
+474	[Unassigned]	3
+475	Classical Latin grammar	3
+476	[Unassigned]	3
+477	"Old, postclassical & Vulgar Latin"	3
+478	Classical Latin usage	3
+479	Other Italic languages	3
+480	Hellenic languages; classical Greek	3
+481	Classical Greek writing & phonology	3
+482	Classical Greek etymology	3
+483	Classical Greek dictionaries	3
+484	[Unassigned]	3
+485	Classical Greek grammar	3
+486	[Unassigned]	3
+487	Preclassical & postclassical Greek	3
+488	Classical Greek usage	3
+489	Other Hellenic languages	3
+490	Other languages	3
+491	East Indo-European & Celtic languages	3
+492	Afro-Asiatic languages; Semitic languages	3
+493	Non-Semitic Afro-Asiatic languages	3
+494	"Altaic, Uralic, Hyperborean & Dravidian"	3
+495	Languages of East & Southeast Asia	3
+496	African languages	3
+497	North American native languages	3
+498	South American native languages	3
+499	Austronesian & other languages	3
+500	Natural sciences & mathematics	3
+501	Philosophy & theory	3
+502	Miscellany	3
+503	Dictionaries & encyclopedias	3
+504	[Unassigned]	3
+505	Serial publications	3
+506	Organizations & management	3
+507	"Education, research & related topics"	3
+508	Natural history	3
+509	"Historical, geographic & persons treatment"	3
+510	Mathematics	3
+511	General principles of mathematics	3
+512	Algebra	3
+513	Arithmetic	3
+514	Topology	3
+515	Analysis	3
+516	Geometry	3
+517	[Unassigned]	3
+518	Numerical analysis	3
+519	Probabilities & applied mathematics	3
+520	Astronomy & allied sciences	3
+521	Celestial mechanics	3
+522	"Techniques, equipment & materials"	3
+523	Specific celestial bodies & phenomena	3
+524	[Unassigned]	3
+525	Earth (Astronomical geography)	3
+526	Mathematical geography	3
+527	Celestial navigation	3
+528	Ephemerides	3
+529	Chronology	3
+530	Physics	3
+531	Classical mechanics; solid mechanics	3
+532	Fluid mechanics; liquid mechanics	3
+533	Gas mechanics	3
+534	Sound & related vibrations	3
+535	Light & infrared & ultraviolet phenomena	3
+536	Heat	3
+537	Electricity & electronics	3
+538	Magnetism	3
+539	Modern physics	3
+540	Chemistry & allied sciences	3
+541	Physical chemistry	3
+542	"Techniques, equipment & materials"	3
+543	Analytical chemistry	3
+544	[Unassigned]	3
+545	[Unassigned]	3
+546	Inorganic chemistry	3
+547	Organic chemistry	3
+548	Crystallography	3
+549	Mineralogy	3
+550	Earth sciences	3
+551	"Geology, hydrology & meteorology"	3
+552	Petrology	3
+553	Economic geology	3
+554	Earth sciences of Europe	3
+555	Earth sciences of Asia	3
+556	Earth sciences of Africa	3
+557	Earth sciences of North America	3
+558	Earth sciences of South America	3
+559	Earth sciences of other areas	3
+560	Paleontology; paleozoology	3
+561	Paleobotany; fossil microorganisms	3
+562	Fossil invertebrates	3
+563	Fossil marine & seashore invertebrates	3
+564	Fossil mollusks & molluscoids	3
+565	Fossil arthropods	3
+566	Fossil chordates	3
+567	Fossil cold-blooded vertebrates; fossil fishes	3
+568	Fossil birds	3
+569	Fossil mammals	3
+570	Life sciences; biology	3
+571	Physiology & related subjects	3
+572	Biochemistry	3
+573	Specific physiological systems in animals	3
+574	[Unassigned]	3
+575	Specific parts of & systems in plants	3
+576	Genetics & evolution	3
+577	Ecology	3
+578	Natural history of organisms	3
+579	"Microorganisms, fungi & algae"	3
+580	Plants (Botany)	3
+581	Specific topics in natural history	3
+582	Plants noted for characteristics & flowers	3
+583	Dicotyledons	3
+584	Monocotyledons	3
+585	Gymnosperms; conifers	3
+586	Seedless plants	3
+587	Vascular seedless plants	3
+588	Bryophytes	3
+589	[Unassigned]	3
+590	Animals (Zoology)	3
+591	Specific topics in natural history	3
+592	Invertebrates	3
+593	Marine & seashore invertebrates	3
+594	Mollusks & molluscoids	3
+595	Arthropods	3
+596	Chordates	3
+597	Cold-blooded vertebrates; fishes	3
+598	Birds	3
+599	Mammals	3
+600	Technology	3
+601	Philosophy & theory	3
+602	Miscellany	3
+603	Dictionaries & encyclopedias	3
+604	Special topics	3
+605	Serial publications	3
+606	Organizations	3
+607	"Education, research & related topics"	3
+608	Inventions & patents	3
+609	"Historical, geographic & persons treatment"	3
+610	Medicine & health	3
+611	"Human anatomy, cytology & histology"	3
+612	Human physiology	3
+613	Personal health & safety	3
+614	Incidence & prevention of disease	3
+615	Pharmacology & therapeutics	3
+616	Diseases	3
+617	Surgery & related medical specialties	3
+618	"Gynecology, obstetrics, pediatrics & geriatrics"	3
+619	[Unassigned]	3
+620	Engineering & allied operations	3
+621	Applied physics	3
+622	Mining & related operations	3
+623	Military & nautical engineering	3
+624	Civil engineering	3
+625	Engineering of railroads & roads	3
+626	[Unassigned]	3
+627	Hydraulic engineering	3
+628	Sanitary & municipal engineering	3
+629	Other branches of engineering	3
+630	Agriculture & related technologies	3
+631	"Techniques, equipment & materials"	3
+632	"Plant injuries, diseases & pests"	3
+633	Field & plantation crops	3
+634	"Orchards, fruits & forestry"	3
+635	Garden crops (Horticulture)	3
+636	Animal husbandry	3
+637	Processing dairy & related products	3
+638	Insect culture	3
+639	"Hunting, fishing & conservation"	3
+640	Home & family management	3
+641	Food & drink	3
+642	Meals & table service	3
+643	Housing & household equipment	3
+644	Household utilities	3
+645	Household furnishings	3
+646	"Sewing, clothing & personal living"	3
+647	Management of public households	3
+648	Housekeeping	3
+649	Child rearing & home care of persons	3
+650	Management & auxiliary services	3
+651	Office services	3
+652	Processes of written communication	3
+653	Shorthand	3
+654	[Unassigned]	3
+655	[Unassigned]	3
+656	[Unassigned]	3
+657	Accounting	3
+658	General management	3
+659	Advertising & public relations	3
+660	Chemical engineering	3
+661	Industrial chemicals	3
+662	"Explosives, fuels & related products"	3
+663	Beverage technology	3
+664	Food technology	3
+665	"Industrial oils, fats, waxes & gases"	3
+666	Ceramic & allied technologies	3
+667	"Cleaning, color & coating technologies"	3
+668	Technology of other organic products	3
+669	Metallurgy	3
+670	Manufacturing	3
+671	Metalworking & primary metal products	3
+672	"Iron, steel & other iron alloys"	3
+673	Nonferrous metals	3
+674	"Lumber processing, wood products & cork"	3
+675	Leather & fur processing	3
+676	Pulp & paper technology	3
+677	Textiles	3
+678	Elastomers & elastomer products	3
+679	Other products of specific materials	3
+680	Manufacture for specific uses	3
+681	Precision instruments & other devices	3
+682	Small forge work (Blacksmithing)	3
+683	Hardware & household appliances	3
+684	Furnishings & home workshops	3
+685	"Leather, fur goods & related products"	3
+686	Printing & related activities	3
+687	Clothing & accessories	3
+688	Other final products & packaging	3
+689	[Unassigned]	3
+690	Buildings	3
+691	Building materials	3
+692	Auxiliary construction practices	3
+693	Specific materials & purposes	3
+694	Wood construction & carpentry	3
+695	Roof covering	3
+696	Utilities	3
+697	"Heating, ventilating & air-conditioning"	3
+698	Detail finishing	3
+699	[Unassigned]	3
+700	The arts; fine & decorative arts	3
+701	Philosophy of fine & decorative arts	3
+702	Miscellany of fine & decorative arts	3
+703	Dictionaries of fine & decorative arts	3
+704	Special topics in fine & decorative arts	3
+705	Serial publications of fine & decorative arts	3
+706	Organizations & management	3
+707	"Education, research & related topics"	3
+708	"Galleries, museums & private collections"	3
+709	"Historical, geographic & persons treatment"	3
+710	Civic & landscape art	3
+711	Area planning	3
+712	Landscape architecture	3
+713	Landscape architecture of trafficways	3
+714	Water features	3
+715	Woody plants	3
+716	Herbaceous plants	3
+717	Structures in landscape architecture	3
+718	Landscape design of cemeteries	3
+719	Natural landscapes	3
+720	Architecture	3
+721	Architectural structure	3
+722	Architecture to ca. 300	3
+723	Architecture from ca. 300 to 1399	3
+724	Architecture from 1400	3
+725	Public structures	3
+726	Buildings for religious purposes	3
+727	Buildings for education & research	3
+728	Residential & related buildings	3
+729	Design & decoration	3
+730	Plastic arts; sculpture	3
+731	"Processes, forms & subjects of sculpture"	3
+732	Sculpture to ca. 500	3
+733	"Greek, Etruscan & Roman sculpture"	3
+734	Sculpture from ca. 500 to 1399	3
+735	Sculpture from 1400	3
+736	Carving & carvings	3
+737	Numismatics & sigillography	3
+738	Ceramic arts	3
+739	Art metalwork	3
+740	Drawing & decorative arts	3
+741	Drawing & drawings	3
+742	Perspective	3
+743	Drawing & drawings by subject	3
+744	[Unassigned]	3
+745	Decorative arts	3
+746	Textile arts	3
+747	Interior decoration	3
+748	Glass	3
+749	Furniture & accessories	3
+750	Painting & paintings	3
+751	"Techniques, equipment, materials & forms"	3
+752	Color	3
+753	"Symbolism, allegory, mythology & legend"	3
+754	Genre paintings	3
+755	Religion	3
+756	[Unassigned]	3
+757	Human figures	3
+758	Other subjects	3
+759	"Historical, geographic & persons treatment"	3
+760	Graphic arts; printmaking & prints	3
+761	Relief processes (Block printing)	3
+762	[Unassigned]	3
+763	Lithographic processes	3
+764	Chromolithography & serigraphy	3
+765	Metal engraving	3
+766	"Mezzotinting, aquatinting & related processes"	3
+767	Etching & drypoint	3
+768	[Unassigned]	3
+769	Prints	3
+770	"Photography, photographs & computer art"	3
+771	"Techniques, equipment & materials"	3
+772	Metallic salt processes	3
+773	Pigment processes of printing	3
+774	Holography	3
+775	Digital photography	3
+776	Computer art (Digital art)	3
+777	[Unassigned]	3
+778	Fields & kinds of photography	3
+779	Photographs	3
+780	Music	3
+781	General principles & musical forms	3
+782	Vocal music	3
+783	Music for single voices; the voice	3
+784	Instruments & instrumental ensembles	3
+785	Ensembles with one instrument per part	3
+786	Keyboard & other instruments	3
+787	Stringed instruments	3
+788	Wind instruments	3
+789	(Optional number)	3
+790	Recreational & performing arts	3
+791	Public performances	3
+792	Stage presentations	3
+793	Indoor games & amusements	3
+794	Indoor games of skill	3
+795	Games of chance	3
+796	Athletic & outdoor sports & games	3
+797	Aquatic & air sports	3
+798	Equestrian sports & animal racing	3
+799	"Fishing, hunting & shooting"	3
+800	Literature & rhetoric	3
+801	Philosophy & theory	3
+802	Miscellany	3
+803	Dictionaries & encyclopedias	3
+804	[Unassigned]	3
+805	Serial publications	3
+806	Organizations & management	3
+807	"Education, research & related topics"	3
+808	Rhetoric & collections of literature	3
+809	"History, description & criticism"	3
+810	American literature in English	3
+811	American poetry in English	3
+812	American drama in English	3
+813	American fiction in English	3
+814	American essays in English	3
+815	American speeches in English	3
+816	American letters in English	3
+817	American humor & satire in English	3
+818	American miscellaneous writings	3
+819	(Optional number)	3
+820	English & Old English literatures	3
+821	English poetry	3
+822	English drama	3
+823	English fiction	3
+824	English essays	3
+825	English speeches	3
+826	English letters	3
+827	English humor & satire	3
+828	English miscellaneous writings	3
+829	Old English (Anglo-Saxon)	3
+830	Literatures of Germanic languages	3
+831	German poetry	3
+832	German drama	3
+833	German fiction	3
+834	German essays	3
+835	German speeches	3
+836	German letters	3
+837	German humor & satire	3
+838	German miscellaneous writings	3
+839	Other Germanic literatures	3
+840	Literatures of Romance languages	3
+841	French poetry	3
+842	French drama	3
+843	French fiction	3
+844	French essays	3
+845	French speeches	3
+846	French letters	3
+847	French humor & satire	3
+848	French miscellaneous writings	3
+849	Occitan & Catalan literatures	3
+850	"Italian, Romanian & related literatures"	3
+851	Italian poetry	3
+852	Italian drama	3
+853	Italian fiction	3
+854	Italian essays	3
+855	Italian speeches	3
+856	Italian letters	3
+857	Italian humor & satire	3
+858	Italian miscellaneous writings	3
+859	Romanian & related literatures	3
+860	Spanish & Portuguese literatures	3
+861	Spanish poetry	3
+862	Spanish drama	3
+863	Spanish fiction	3
+864	Spanish essays	3
+865	Spanish speeches	3
+866	Spanish letters	3
+867	Spanish humor & satire	3
+868	Spanish miscellaneous writings	3
+869	Portuguese literature	3
+870	Italic literatures; Latin literature	3
+871	Latin poetry	3
+872	Latin dramatic poetry & drama	3
+873	Latin epic poetry & fiction	3
+874	Latin lyric poetry	3
+875	Latin speeches	3
+876	Latin letters	3
+877	Latin humor & satire	3
+878	Latin miscellaneous writings	3
+879	Literatures of other Italic languages	3
+880	Hellenic literatures; classical Greek	3
+881	Classical Greek poetry	3
+882	Classical Greek dramatic poetry & drama	3
+883	Classical Greek epic poetry & fiction	3
+884	Classical Greek lyric poetry	3
+885	Classical Greek speeches	3
+886	Classical Greek letters	3
+887	Classical Greek humor & satire	3
+888	Classical Greek miscellaneous writings	3
+889	Modern Greek literature	3
+890	Literatures of other languages	3
+891	East Indo-European & Celtic literatures	3
+892	Afro-Asiatic literatures; Semitic literatures	3
+893	Non-Semitic Afro-Asiatic literatures	3
+894	"Altaic, Uralic, Hyperborean & Dravidian"	3
+895	Literatures of East & Southeast Asia	3
+896	African literatures	3
+897	North American native literatures	3
+898	South American native literatures	3
+899	Austronesian & other literatures	3
+900	History & geography	3
+901	Philosophy & theory	3
+902	Miscellany	3
+903	Dictionaries & encyclopedias	3
+904	Collected accounts of events	3
+905	Serial publications	3
+906	Organizations & management	3
+907	"Education, research & related topics"	3
+908	Kinds of persons treatment	3
+909	World history	3
+910	Geography & travel	3
+911	Historical geography	3
+912	"Atlases, maps, charts & plans"	3
+913	Geography of & travel in ancient world	3
+914	Geography of & travel in Europe	3
+915	Geography of & travel in Asia	3
+916	Geography of & travel in Africa	3
+917	Geography of & travel in North America	3
+918	Geography of & travel in South America	3
+919	Geography of & travel in other areas	3
+920	"Biography, genealogy & insignia"	3
+921	(Optional number)	3
+922	(Optional number)	3
+923	(Optional number)	3
+924	(Optional number)	3
+925	(Optional number)	3
+926	(Optional number)	3
+927	(Optional number)	3
+928	(Optional number)	3
+929	"Genealogy, names & insignia"	3
+930	History of ancient world to ca. 499	3
+931	China to 420	3
+932	Egypt to 640	3
+933	Palestine to 70	3
+934	India to 647	3
+935	Mesopotamia & Iranian Plateau to 637	3
+936	Europe north & west of Italy to ca. 499	3
+937	Italy & adjacent territories to 476	3
+938	Greece to 323	3
+939	Other parts of ancient world to ca. 640	3
+940	History of Europe	3
+941	British Isles	3
+942	England & Wales	3
+943	Central Europe; Germany	3
+944	France & Monaco	3
+945	Italian Peninsula & adjacent islands	3
+946	Iberian Peninsula & adjacent islands	3
+947	Eastern Europe; Russia	3
+948	Scandinavia	3
+949	Other parts of Europe	3
+950	History of Asia; Far East	3
+951	China & adjacent areas	3
+952	Japan	3
+953	Arabian Peninsula & adjacent areas	3
+954	South Asia; India	3
+955	Iran	3
+956	Middle East (Near East)	3
+957	Siberia (Asiatic Russia)	3
+958	Central Asia	3
+959	Southeast Asia	3
+960	History of Africa	3
+961	Tunisia & Libya	3
+962	Egypt & Sudan	3
+963	Ethiopia & Eritrea	3
+964	Northwest African coast & offshore islands	3
+965	Algeria	3
+966	West Africa & offshore islands	3
+967	Central Africa & offshore islands	3
+968	Southern Africa; Republic of South Africa	3
+969	South Indian Ocean islands	3
+970	History of North America	3
+971	Canada	3
+972	Middle America; Mexico	3
+973	United States	3
+974	Northeastern United States	3
+975	Southeastern United States	3
+976	South central United States	3
+977	North central United States	3
+978	Western United States	3
+979	Great Basin & Pacific Slope region	3
+980	History of South America	3
+981	Brazil	3
+982	Argentina	3
+983	Chile	3
+984	Bolivia	3
+985	Peru	3
+986	Colombia & Ecuador	3
+987	Venezuela	3
+988	Guiana	3
+989	Paraguay & Uruguay	3
+990	History of other areas	3
+991	[Unassigned]	3
+992	[Unassigned]	3
+993	New Zealand	3
+994	Australia	3
+995	Melanesia; New Guinea	3
+996	Other parts of Pacific; Polynesia	3
+997	Atlantic Ocean islands	3
+998	Arctic islands & Antarctica	3
+999	Extraterrestrial worlds	3
