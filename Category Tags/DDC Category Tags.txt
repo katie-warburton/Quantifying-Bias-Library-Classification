@@ -1,0 +1,116 @@
+RELIGION
+---------------------------------------------------
+WESTERN
+22: The Bible
+23: Christianity & Christian theology
+24: Christian practice & observance
+25: Christian pastoral practice & religious orders
+26: Christian organization, social work & worship
+27: History of Christianity
+28: Christian denominations
+296: Judaism
+299.936: Scientology
+
+NON-WESTERN
+294: Religions of Indic origin
+295: Zoroastrianism
+297: Islam, Babism & Bahai Faith
+299.2: Sumer, Assyria, Mesopotamia
+299.3: Of North African Origin
+299.4: Of Eurasian Origin
+299.5: Of Asian Origin
+299.6: Of African Origin
+299.7: Of North American Origin
+299.8: Of South American Origin
+299.92: Of Pacific or Other Ethnic Origin
+
+LANGUAGE & LITERATURE
+-----------------------------------------------------
+WESTERN
+42: English & Old English languages
+43: German & related languages
+44: French & related languages
+45: Italian, Romanian & related languages
+46: Spanish & Portuguese languages
+47: Latin & Italic languages
+48: Classical & modern Greek languages
+491.6: Celtic
+491.9: Baltic
+494.5: Finno-Ugric languages
+81: American literature in English
+82: English & Old English literatures
+83: German & related literatures
+84: French & related literatures
+85: Italian, Romanian & related literatures
+86: Spanish & Portuguese literatures
+87: Latin & Italic literatures
+88: Classical & modern Greek literatures
+891.6: Celtic languages
+891.91: Old Prussian
+891.92: Lithuanian
+891.93: Latvian
+894.5: Fenno-Ugric languages
+
+NON-WESTERN
+491.1: Indic
+491.2: Sanskrit
+491.3: Pali
+491.4: Modern East Indian languages (excluding Dravidian)
+491.5: Iranic
+491.7: Russian and related East Slavic languages
+491.8: Slavic languages
+492: Afro-Asiatic languages; Semitic languages
+493: Non-Semitic Afro-Asiatic languages
+494.2: Mongolian
+494.3: Turkish
+494.6: East Altaic languages
+494.8: Dravidian languages
+495: Languages of East & Southeast Asia
+496: African languages
+497: North American native languages
+498: South American native languages
+499: Austronesian & other languages
+891.1: Indo-Iranian
+891.2: Sanskrit
+891.3: Middle Indic languages
+891.4: Modern Indic languages
+891.5: Persian languages
+891.7: Russian and East Slavic languages
+891.8: West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)
+891.99: Other Indo-European languages
+892: Afro-Asiatic literatures; Semitic literatures
+893: Non-Semitic Afro-Asiatic literatures
+894.1: Tungusic languages
+894.2: Mongolic languages
+894.3: Turkic languages
+894.6: Paleosiberian languages, incl. Ainu:
+894.8: Dravidian literatures
+895: Literatures of East & Southeast Asia
+896: African literatures
+897: North American native literatures
+898: South American native literatures
+899: Austronesian & other literatures
+
+HISTORY 
+------------------------------------------------------------
+WESTERN
+941: British Isles
+942: England & Wales
+943: Central Europe; Germany
+944: France & Monaco
+945: Italian Peninsula & adjacent islands
+946: Iberian Peninsula & adjacent islands
+948: Scandinavia
+97: History of North America
+98: History of South America
+993: New Zealand
+994: Australia
+
+NON-WESTERN
+947: Eastern Europe; Russia
+95: History of Asia
+96: History of Africa
+991: Formerly Malaysia; Indonesia; Phillipines [Currently Unassigned]
+992: Formely Malaysia; Indonesia [Currently  Unassigned]
+995: Melanesia; New Guinea
+996: Other parts of Pacific; Polynesia

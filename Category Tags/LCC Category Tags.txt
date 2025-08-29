@@ -1,0 +1,81 @@
+RELIGION
+-----------------------------------------------
+WESTERN
+BL689-980: European. Occidental 
+BL2500-2592: American 
+BM: Judaism 
+BR: Christianity 
+BS: The Bible 
+BT: Doctrinal Theology 
+BV: Practical Theology
+BX: Christian Denominations
+
+NON-WESTERN
+BL685: Ural-Altaic
+BL1000-2370: Asian. Oriental 
+BL2390-2490: African
+BL2600-2630: Pacific Ocean islands. Oceania
+BL2670: Arctic regions 
+BP: Islam. Bahaism. Theosophy, etc.
+BQ: Buddhism
+
+
+LANGUAGE & LITERATURE 
+---------------------------------------------------
+WESTERN 
+PA: Greek language and literature. Lation language and literature
+PB: Modern languages. Celtic languages
+PC: Romance languages
+PD: Germanic languages. Scandinavian languages
+PE: English language
+PF: West Germanic languages
+PG8001-9146: Baltic
+PH: Uralic languages. Basque languages
+PQ: French literature - Italian literature - Spanish literature - Portuguese literature
+PR: English literature
+PS: American literature
+
+NON-WESTERN
+PG1-7925: Slavic
+PG9501-9665: Albanian
+PJ: Oriental languages and literature
+PK: Indo-Iranian languages and literature
+PL: Languages and literature of Eastern Asia, Africa, Oceania
+PM1-94: Hperborean languages of Arctic Asia and America
+PM101-2711: American languages (Aboriginal)
+PM3001-4566: Languages of Mexico and Central America
+PM5001-7356: Languages of South America and the West Indies
+
+
+HISTORY 
+---------------------------------------------------
+WESTERN 
+DA: Great Britain
+DAW: History of Central Europe
+DB:  Austria. Liechtenstein. Hungary. Czechoslovakia
+DC: France. Andorra. Monaco
+DD: Germany
+DE: Greco-Roman World
+DF: Greece
+DG: Italy - Malta
+DH: Low Countries. Benelux Countries
+DJ: Netherlands (Holland)
+DL:  Northern Europe. Scandinavia
+DP: Spain - Portugal
+DQ: Switzerland
+DU80-398: Australia
+DU400-430: New Zealand
+E: History of the Americas
+F: History of the Americas (local)
+
+NON-WESTERN
+DJK: Eastern Europe (General)
+DK: Russia. Soviet Union. Former Soviet Republics. Poland
+DR: Balkan Peninsula
+DS: Asia
+DT: Africa
+DU490: Melanesia (General)
+DU500: Micronesia (General)
+DU510: Polynesia (General)
+DU520-950: Smaller island groups
+DX: Romanies
