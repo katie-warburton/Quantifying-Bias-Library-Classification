@@ -28,4 +28,5 @@ The analyses are presented in Warburton, K., Kemp, C., Xu, Y., & Frermann, L. (2
 ## Attributions
 All copyright rights in the Dewey Decimal Classification system are owned by OCLC. Dewey, Dewey Decimal Classification, DDC and WebDewey are registered trademarks of OCLC. This project contains information from OhioLINK Circulation Data which is made available by OCLC Online Computer Library Center, Inc. and OhioLINK under the ODC Attribution License. LCC outlines are extracted from PDFs created by the Library of Congress and stored at: https://www.loc.gov/catdir/cpso/lcco/.
 
-**See the full project at: https://osf.io/wd9c6/**
+## Other
+This is code that was written a while ago and alread existed on OSF in this format. I've moved it here as well. Some data can only be found on OSF as it is too large for GitHub. **See the full project at: https://osf.io/wd9c6/**
