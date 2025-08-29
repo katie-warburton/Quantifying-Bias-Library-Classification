@@ -1,7 +1,7 @@
 # Quantifying Bias In Hierarchical Category Sysyems
 Code to analyze western and gender bias as the category and item (book) level in both the Library of Congress Classification (LCC) and the Dewey Decimal Classification (DDC). An analysis of bias towards domestic mammals versus wild mammals in WordNet is also included.
 
-The analyses are presented in Warburton, K., Kemp, C., Xu, Y., & Frermann, L. (2024). Quantifying Bias in Hierarchical Category Systems. _Open Mind: Discoveries in Cognitive Science_. Doi: https://doi.org/10.1162/opmi_a_00121
+The analyses are presented in Warburton, K., Kemp, C., Xu, Y., & Frermann, L. (2024). Quantifying Bias in Hierarchical Category Systems. _Open Mind: Discoveries in Cognitive Science_. https://doi.org/10.1162/opmi_a_00121
 
 ## Required Python Libraries
 ### For main analyses:
